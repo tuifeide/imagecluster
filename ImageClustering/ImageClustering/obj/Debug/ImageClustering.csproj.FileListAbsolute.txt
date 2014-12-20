@@ -1,0 +1,6 @@
+c:\users\tony\documents\visual studio 2012\Projects\ImageClustering\ImageClustering\bin\Debug\ImageClustering.exe.config
+c:\users\tony\documents\visual studio 2012\Projects\ImageClustering\ImageClustering\bin\Debug\ImageClustering.exe
+c:\users\tony\documents\visual studio 2012\Projects\ImageClustering\ImageClustering\bin\Debug\ImageClustering.pdb
+c:\users\tony\documents\visual studio 2012\Projects\ImageClustering\ImageClustering\obj\Debug\ImageClustering.exe
+c:\users\tony\documents\visual studio 2012\Projects\ImageClustering\ImageClustering\obj\Debug\ImageClustering.pdb
+C:\Users\Tony\Documents\Visual Studio 2012\Projects\ImageClustering\ImageClustering\obj\Debug\ImageClustering.csprojResolveAssemblyReference.cache
