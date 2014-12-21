@@ -46,6 +46,10 @@ namespace ImageClustering
             }
             for (int i = 0; i < 2; i++)
             {
+                sum[i] = 0;
+            }
+            for (int i = 0; i < 2; i++)
+            {
                 for (int j = 0; j < linkrow; j++)
                 {
                     score[i, j] = 0;
